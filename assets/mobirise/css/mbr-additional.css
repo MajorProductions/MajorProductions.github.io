@@ -1769,9 +1769,13 @@ body {
 }
 .cid-qQD6RIzmeh .mbr-text,
 .cid-qQD6RIzmeh .mbr-section-btn {
-  color: #a92828;
+  color: #b2ccd2;
 }
 .cid-qQD6RIzmeh I {
+  color: #5b686b;
+}
+.cid-qQD6RIzmeh .mbr-text,
+.cid-qQD6RIzmeh .mbr-section-btn I {
   color: #a92828;
 }
 .cid-qQDsTnFSj8 {
@@ -1781,14 +1785,14 @@ body {
 }
 .cid-qQDsTnFSj8 .mbr-section-subtitle {
   color: #a92828;
-  text-align: center;
+  text-align: right;
 }
 .cid-qQDsTnFSj8 .btn {
   margin: 0 0 .5rem 0;
 }
 .cid-qQDsTnFSj8 H2 {
   color: #a92828;
-  text-align: center;
+  text-align: right;
 }
 .cid-qQDqh7Tl5n {
   padding-top: 60px;
@@ -1840,10 +1844,12 @@ body {
 }
 .cid-qQDzZEU8f6 H2 {
   color: #a92828;
+  text-align: center;
 }
 .cid-qQDzZEU8f6 .mbr-text,
 .cid-qQDzZEU8f6 .mbr-section-btn {
   color: #a92828;
+  text-align: center;
 }
 .cid-qQDuUNPiDz {
   padding-top: 90px;
@@ -1886,6 +1892,61 @@ body {
 .cid-qQDuUNPiDz P {
   color: #a92828;
   text-align: center;
+}
+.cid-qQDGDcJXr4 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #101010;
+}
+.cid-qQDGDcJXr4 H2 {
+  color: #a92828;
+  text-align: center;
+}
+.cid-qQDGDcJXr4 .mbr-text,
+.cid-qQDGDcJXr4 .mbr-section-btn {
+  color: #a92828;
+  text-align: center;
+}
+.cid-qQDHtD8OuJ {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #101010;
+}
+.cid-qQDHtD8OuJ H2 {
+  color: #a92828;
+  text-align: center;
+}
+.cid-qQDHtD8OuJ .mbr-text,
+.cid-qQDHtD8OuJ .mbr-section-btn {
+  color: #a92828;
+  text-align: center;
+}
+.cid-qQDHSWBjXo {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #101010;
+}
+.cid-qQDHSWBjXo H2 {
+  color: #a92828;
+  text-align: center;
+}
+.cid-qQDHSWBjXo .mbr-text,
+.cid-qQDHSWBjXo .mbr-section-btn {
+  color: #a92828;
+  text-align: center;
+}
+.cid-qQDJAJoub0 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #101010;
+}
+.cid-qQDJAJoub0 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-qQDJAJoub0 .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qQD9AUUVOj {
   padding-top: 30px;
