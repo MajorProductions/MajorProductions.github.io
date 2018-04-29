@@ -1769,9 +1769,13 @@ body {
 }
 .cid-qQD6RIzmeh .mbr-text,
 .cid-qQD6RIzmeh .mbr-section-btn {
-  color: #a92828;
+  color: #55b4d4;
 }
 .cid-qQD6RIzmeh I {
+  color: #a92828;
+}
+.cid-qQD6RIzmeh .mbr-text,
+.cid-qQD6RIzmeh .mbr-section-btn I {
   color: #a92828;
 }
 .cid-qQDsTnFSj8 {
